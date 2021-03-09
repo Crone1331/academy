@@ -236,3 +236,9 @@
                     }
                 }
             }
+            
+            @media(max-width:350px) {
+                .header .text_header h1 {
+                    font-size: 2em;
+                }
+            }
